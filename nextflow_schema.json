@@ -5,14 +5,5 @@
   "description": "Converted to nf-schema compatible JSON Schema (draft 2020-12).",
   "type": "object",
 
-  "$defs": {
-    "custom_params": {
-       
-      }
-    }
-  },
 
-  "allOf": [
-    { "$ref": "#/$defs/custom_params" }
-  ]
 }
