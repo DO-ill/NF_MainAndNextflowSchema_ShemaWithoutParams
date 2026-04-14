@@ -2,8 +2,6 @@
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "$id": "https://example.org/nextflow_schema.json",
   "title": "Custom pipeline parameters",
-  "description": "Converted to nf-schema compatible JSON Schema (draft 2020-12).",
-  "type": "object"
-
+  "description": "Converted to nf-schema compatible JSON Schema (draft 2020-12)."
 
 }
